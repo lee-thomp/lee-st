@@ -1,3 +1,9 @@
+# README
+My copy/patches for suckless simple terminal.
+Adds transparency, ligatures, icon, desktop entry, and (I think) a tango colour scheme.
+
+---
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
